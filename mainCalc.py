@@ -20,3 +20,5 @@ ff = input("operator... : ")
 
 full = Calc(a,b, ff)
 print(f"Javob: {full.add()}")
+
+print("success")
